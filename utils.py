@@ -1,5 +1,4 @@
 #Name: Aiden O'Roark
-#700: 700763212
 #Description: Utility file to create functions for the json database, password validation, also
 #hashes passwords for storage
 
