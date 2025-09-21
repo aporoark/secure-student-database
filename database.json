@@ -4,7 +4,7 @@
       "username": "Aiden O",
       "password": "5fb8c9688d66f03ca2f5e1481df1ad5dd748d0537fafb05e8b4c04f0bbd328c9",
       "role": "user",
-      "700_number": "700763212"
+      "700_number": "700700000"
     },
     "admin@ucmo.edu": {
       "username": "",
@@ -16,7 +16,7 @@
   "students": [
     {
       "user_email": "aiden@gmail.com",
-      "700_number": "700763212",
+      "700_number": "700700000",
       "first_name": "Aiden",
       "last_name": "Oroark",
       "age": 20,
