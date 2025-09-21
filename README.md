@@ -25,7 +25,7 @@ This project is a secure, modular Python-based student database system. It demon
 
 ## Technologies Used
 
-* Python 3.x
+* Python 3.10.1
 * JSON for data storage
 * CSV for data export
 * Regex for input validation
