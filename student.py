@@ -1,5 +1,4 @@
 #Name: Aiden O'Roark
-#700: 700763212
 #Description: Create the student class that will define the student information
 #and then send it to their record with the right format
 #Used to store the function used to create students
