@@ -18,8 +18,8 @@ This Python project is a secure student database system that allows adding, edit
    ```bash
    git clone https://github.com/yourusername/ORoark_Aiden_Project.git
 
-Author
+## Author
 Aiden O'Roark
 
-License
+## License
 This project is for educational purposes.
