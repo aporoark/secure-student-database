@@ -1,5 +1,4 @@
 #Name: Aiden O'Roark
-#700: 700763212
 #Description: File to hold all functions that will be utilized by the user and admins
 
 #Import functions from the utils file and the student class
