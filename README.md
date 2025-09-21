@@ -43,7 +43,6 @@ Secure_Student_Database/
 │   └── utils.py           # Helper functions (validation, hashing, etc.)
 ├── data/                  # JSON storage files
 │   └── students.json
-├── exports/               # Folder for exported CSVs
 └── README.md
 ```
 
