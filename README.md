@@ -76,9 +76,9 @@ python main.py
 
 2. Follow on-screen prompts to:
 
-   * Log in as a student or admin
-   * View, edit, or export student records
-   * Add or remove student entries (admin only)
+   * Log in as a user or admin
+   * View or export student records
+   * Add students and edit student data (admin only)
 3. Student data is automatically saved to JSON; CSV export is optional.
 
 ## Security Features
