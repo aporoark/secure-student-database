@@ -1,5 +1,4 @@
 #Name: Aiden O'Roark
-#700: 700763212
 #Description: Create the main function that will run the main loop and create all the menu's
 #and prompt the user for inputs that will be saved by utilizing the other python files.
 
